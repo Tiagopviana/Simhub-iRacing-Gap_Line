@@ -2,6 +2,8 @@
 
 **Simhub Overlay, for iRacing.**
 
+<img src="images/Gap Line Logo.png" />
+
 This overlay will show the cars ahead/behind, according to the distance to the player. And gives more information, like Offtrack/Blackflag/Meatballflag, sector line and cars in pitbox.
 
 I will share 2 versions (lite and max) of the same idea. They work in different ways, but do the same function.
